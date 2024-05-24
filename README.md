@@ -1,4 +1,4 @@
-1. Projeto de aprendizado inspirado no cartão Nubank.
+* Projeto de aprendizado inspirado no cartão Nubank.
 2. Usa HTML, CSS e JavaScript para criar um cartão interativo.
 3. O cartão gira 180 graus para simular uma experiência real.
 4. Foco em reproduzir fielmente a aparência e funcionalidade do cartão.
